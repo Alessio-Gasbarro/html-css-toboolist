@@ -96,3 +96,78 @@ ul{
     padding: 0 6px 0 6px;
     margin-right: 15px;
 }
+
+li{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#new-task-list{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+#today-list{
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+
+#all-lists{
+    padding: 44px 80px;
+}
+
+/* QUI I COLORI */
+
+.blu-editorial{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(87 162 255);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+.purple-goals{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(195, 104, 255);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+.lightgreen-recruiting{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(76, 167, 124);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+.orange-mobile{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(250, 161, 28);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+.pink-website{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(241, 54, 201);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
+
+.green-sales{
+    margin-left: 20px;
+    font-size: 12px;
+    background-color: rgb(198, 241, 79);
+    color: white;
+    border-radius: 10px;
+    padding: 7px 15px;
+}
