@@ -19,3 +19,80 @@ header{
 
 /* FINE SEZIONE HEADER */
 /*INIZIO SEZIONE MAIN-BODY */
+
+body{
+    background-color: #e7e6e6;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#logo {
+    width: 70px;
+    vertical-align: middle;
+}
+
+/* TASTI */
+
+.container {
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: 40px;
+    background-color: white;
+    border-radius: 7px;
+}
+
+#buttons{
+    display: inline-block;
+    padding-top: 40px;
+    border-bottom: 2px solid #e7e6e6;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    width: 100%;
+}
+
+.blue-add-task{
+    background-color: #368bf5;
+    color: white;
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 8px;
+}
+
+.white-add-section{
+    padding: 8px;
+    background-color: white;
+    border: 1px solid lightslategray;
+    color: lightslategray;
+    border-radius: 7px;
+    margin-left: 7px;
+}
+
+/* MODIFICATORI TESTO */
+
+h2{
+    display: inline;
+    margin-left: 10px;
+}
+
+ul{
+    list-style: none;
+    padding-left: inherit;
+}
+
+.x-neg{
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 0 6px 0 6px;
+    margin-right: 15px;
+}
+
+.v-done{
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 0 6px 0 6px;
+    margin-right: 15px;
+}
